@@ -1,0 +1,12 @@
+1 test failed -1.77pts
+    9.2 | Create new answer should be displayed at the top of the answers page
+    Problem: When creating an answer for a question, it should be in the top of the answers list.
+    Your app is not doing that. 
+
+code compliance and eslint: 20/20
+
+populate_db.js 30/30
+
+design patterns: 13/13
+
+Total: 141.23/130
